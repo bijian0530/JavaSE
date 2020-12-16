@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a36c62-2f72-4c38-aeeb-49e414fa7f5d" name="Default Changelist" comment="" />
+    <list default="true" id="d7a36c62-2f72-4c38-aeeb-49e414fa7f5d" name="Default Changelist" comment="测试">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,8 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,7 +68,7 @@
       <recent name="E:\IDEA 2020\JavaSE\Exception\src\com\javase\Homework01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnnotationTest">
+  <component name="RunManager" selected="Application.ReflectTest01">
     <configuration name="AnnotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javase.AnnotationTest03.AnnotationTest" />
       <module name="Annatation" />
@@ -92,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase.HashSetTest01" />
-      <module name="Set" />
+    <configuration name="ReflectTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase.ReflectTest01.ReflectTest01" />
+      <module name="Reflect" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase.*" />
+          <option name="PATTERN" value="com.javase.ReflectTest01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +146,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HashSetTest01" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.AnnotationTest01" />
       <item itemvalue="Application.yaoyao" />
       <item itemvalue="Application.AnnotationTest" />
+      <item itemvalue="Application.ReflectTest01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReflectTest01" />
         <item itemvalue="Application.AnnotationTest" />
         <item itemvalue="Application.yaoyao" />
         <item itemvalue="Application.AnnotationTest01" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HashSetTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -179,8 +182,16 @@
       <workItem from="1606546361854" duration="13324000" />
       <workItem from="1606903190529" duration="10870000" />
       <workItem from="1607570959758" duration="2329000" />
-      <workItem from="1607922693155" duration="10399000" />
+      <workItem from="1607922693155" duration="11161000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1608040366369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608040366369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +208,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1606962084918">
@@ -275,14 +290,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1607926216588" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608039933940">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608040434481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608039933940" />
-    <state x="153" y="14" key="new project wizard" timestamp="1608034534271">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608040434481" />
+    <state x="153" y="14" key="new project wizard" timestamp="1608125599312">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="153" y="14" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608034534271" />
+    <state x="153" y="14" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608125599312" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1608036541533">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
