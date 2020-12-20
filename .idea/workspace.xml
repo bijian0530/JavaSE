@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7a36c62-2f72-4c38-aeeb-49e414fa7f5d" name="Default Changelist" comment="测试">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest01/ReflectTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest01/ReflectTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <recent name="E:\IDEA 2020\JavaSE\Exception\src\com\javase\Homework01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReflectTest02">
+  <component name="RunManager" selected="Application.ReflectTest (3)">
     <configuration name="ReflectTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javase.ReflectTest03.ReflectTest" />
       <module name="Reflect" />
@@ -105,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase.ReflectTest05.ReflectTest" />
+    <configuration name="ReflectTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase.ReflectTest06.ReflectTest" />
       <module name="Reflect" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase.ReflectTest05.*" />
+          <option name="PATTERN" value="com.javase.ReflectTest06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,14 +170,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReflectTest" />
       <item itemvalue="Application.ReflectTest01" />
       <item itemvalue="Application.ReflectTest (1)" />
       <item itemvalue="Application.ReflectTest (2)" />
       <item itemvalue="Application.ReflectTest02" />
+      <item itemvalue="Application.ReflectTest (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReflectTest (3)" />
         <item itemvalue="Application.ReflectTest02" />
         <item itemvalue="Application.ReflectTest (1)" />
         <item itemvalue="Application.ReflectTest01" />
@@ -207,6 +207,7 @@
       <workItem from="1606903190529" duration="10870000" />
       <workItem from="1607570959758" duration="2329000" />
       <workItem from="1607922693155" duration="20904000" />
+      <workItem from="1608296632337" duration="3526000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1608040366369</created>
@@ -222,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608126352820</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试">
+      <created>1608296699922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608296699922</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试">
+      <created>1608296984672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608296984672</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,22 +304,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="606" y="107" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605147919555" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608296412381">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608467658634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608296412381" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608296412381">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608467658634" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608467658634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608296412381" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608296412381">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608467658634" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608467658634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608296412381" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608296412381">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608467658634" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608467658634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608296412381" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608467658634" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1608296412351">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -329,10 +344,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1607926216588" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608126391673">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608296975797">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608126391673" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608296975797" />
     <state x="153" y="14" key="new project wizard" timestamp="1608295802086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
