@@ -20,69 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a36c62-2f72-4c38-aeeb-49e414fa7f5d" name="Default Changelist" comment="测试">
-      <change afterPath="$PROJECT_DIR$/IOStream/src/com/FileReader/LoggerTest/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOStream/src/com/FileReader/LoggerTest/LoggerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOStream/src/com/Test01/Test01" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOStream/src/com/Test02/BufferedReaderTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOStream/src/com/Test02/FileReaderTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOStream/src/com/Test02/FileWriterTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOStream/src/com/Test02/InputStreamReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOStream/src/com/Test02/InputStreamTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020_11_16/src/com/javase/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/2020_11_16/src/com/Test01/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020_11_16/src/com/javase/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/2020_11_16/src/com/Test01/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Annatation/src/com/javase/AnnotationTest01/HasNotPropertyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Annatation/src/com/Test01/AnnotationTest01/HasNotPropertyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Annatation/src/com/javase/AnnotationTest01/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Annatation/src/com/Test01/AnnotationTest01/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Annatation/src/com/javase/AnnotationTest01/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Annatation/src/com/Test01/AnnotationTest01/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Annatation/src/com/javase/AnnotationTest01/id.java" beforeDir="false" afterPath="$PROJECT_DIR$/Annatation/src/com/Test01/AnnotationTest01/id.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Annatation/src/com/javase/AnnotationTest02/AnnotationTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Annatation/src/com/Test01/AnnotationTest02/AnnotationTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Annatation/src/com/javase/AnnotationTest03/AnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Annatation/src/com/Test01/AnnotationTest03/AnnotationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Annatation/src/com/javase/AnnotationTest03/MyAnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Annatation/src/com/Test01/AnnotationTest03/MyAnnotationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework01/IlleagalNameException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework01/IlleagalNameException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework01/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework01/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework01/Userservise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework01/Userservise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework02/AddWeaponException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework02/AddWeaponException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework02/Army.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework02/Army.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework02/GaoShePao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework02/GaoShePao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework02/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework02/Moveable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework02/Shotable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework02/Shotable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework02/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework02/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework02/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework02/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework02/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework02/Weapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework02/YunShuJi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework02/YunShuJi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/javase/Homework02/ZhanDouJi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/Test01/Homework02/ZhanDouJi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IOStream/src/com/javase/File01.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStream/src/com/Test01/File01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IOStream/src/com/javase/FileInputStreamTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStream/src/com/Test01/FileInputStreamTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/classinfo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/classinfo.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest01/ReflectTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest01/ReflectTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest02/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest02/ReflectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest02/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest02/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest03/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest03/ReflectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest03/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest03/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest04/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest04/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest04/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest04/ReflectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest05/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest05/ReflectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest05/ReflectTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest05/ReflectTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest05/ReflectTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest05/ReflectTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest06/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest06/ReflectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest06/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest06/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest07/ReflectTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest07/ReflectTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest07/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest07/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest08/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest08/ReflectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest08/ReflectTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest08/ReflectTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/com/javase/ReflectTest08/Vip.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/com/Test01/ReflectTest08/Vip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/src/com/javase/ArrayListTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set/src/com/Test01/ArrayListTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/src/com/javase/HashSetTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set/src/com/Test01/HashSetTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/src/com/javase/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set/src/com/Test01/MapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/src/com/javase/MapTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set/src/com/Test01/MapTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/src/com/javase/TreeMapTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set/src/com/Test01/TreeMapTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/src/com/javase/TreeMapTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set/src/com/Test01/TreeMapTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/src/com/javase/TreeSetTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set/src/com/Test01/TreeSetTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/src/com/javase/TreeSetTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set/src/com/Test01/TreeSetTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thread/src/com/javase/ThreadTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/src/com/Test01/ThreadTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thread/src/com/javase/ThreadTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/src/com/Test01/ThreadTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IOStream/com/javase/File01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IOStream/com/javase/FileInputStreamTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/ArrayListTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/HashSetTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/MapTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/TreeMapTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/TreeMapTest02$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/TreeMapTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/TreeSetTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/TreeSetTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/WuGui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/com/javase/WuGuiComparator.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +69,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -125,8 +77,9 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.javase.ReflectTest03" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA 2020\JavaSE" />
+      <recent name="E:\IDEA 2020\JavaSE\Reflect\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IDEA 2020\JavaSE\Exception\src\com\javase\Homework01" />
@@ -134,18 +87,17 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.javase.ReflectTest03" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IDEA 2020\JavaSE" />
-      <recent name="E:\IDEA 2020\JavaSE\Reflect\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javase.ReflectTest03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoggerTest">
-    <configuration name="BufferedReaderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Test02.BufferedReaderTest01" />
-      <module name="IOStream" />
+  <component name="RunManager" selected="Application.CollectionsTest02">
+    <configuration name="CollectionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test03.CollectionsTest" />
+      <module name="Set" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Test02.*" />
+          <option name="PATTERN" value="com.Test03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReaderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Test02.FileReaderTest01" />
-      <module name="IOStream" />
+    <configuration name="CollectionsTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test03.CollectionsTest02" />
+      <module name="Set" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Test02.*" />
+          <option name="PATTERN" value="com.Test03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWriterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Test02.FileWriterTest01" />
-      <module name="IOStream" />
+    <configuration name="ComparableTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test03.ComparableTest01" />
+      <module name="Set" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Test02.*" />
+          <option name="PATTERN" value="com.Test03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputStreamReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Test02.InputStreamReader" />
-      <module name="IOStream" />
+    <configuration name="ComparableTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test03.ComparableTest02" />
+      <module name="Set" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Test02.*" />
+          <option name="PATTERN" value="com.Test03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoggerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.FileReader.LoggerTest.LoggerTest" />
-      <module name="IOStream" />
+    <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test03.ComparatorTest" />
+      <module name="Set" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.FileReader.LoggerTest.*" />
+          <option name="PATTERN" value="com.Test03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,46 +157,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase.ReflectTest06.ReflectTest" />
-      <module name="Reflect" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javase.ReflectTest06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FileReaderTest01" />
-      <item itemvalue="Application.FileWriterTest01" />
-      <item itemvalue="Application.BufferedReaderTest01" />
-      <item itemvalue="Application.InputStreamReader" />
-      <item itemvalue="Application.LoggerTest" />
+      <item itemvalue="Application.ComparableTest01" />
+      <item itemvalue="Application.ComparatorTest" />
+      <item itemvalue="Application.ComparableTest02" />
+      <item itemvalue="Application.CollectionsTest" />
+      <item itemvalue="Application.CollectionsTest02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoggerTest" />
-        <item itemvalue="Application.InputStreamReader" />
-        <item itemvalue="Application.BufferedReaderTest01" />
-        <item itemvalue="Application.FileWriterTest01" />
-        <item itemvalue="Application.FileReaderTest01" />
+        <item itemvalue="Application.CollectionsTest02" />
+        <item itemvalue="Application.CollectionsTest" />
+        <item itemvalue="Application.ComparableTest02" />
+        <item itemvalue="Application.ComparatorTest" />
+        <item itemvalue="Application.ComparableTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +210,8 @@
       <workItem from="1608541845336" duration="3715000" />
       <workItem from="1608550410163" duration="1180000" />
       <workItem from="1609656313060" duration="679000" />
-      <workItem from="1610276030999" duration="11243000" />
+      <workItem from="1610276030999" duration="18581000" />
+      <workItem from="1610698420116" duration="13172000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1608040366369</created>
@@ -303,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608296984672</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="测试">
+      <created>1610352790365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610352790365</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,14 +287,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="518" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1609656785299" />
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1610350990681">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1610785682495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1610350990681" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1610785682495" />
     <state x="544" y="279" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610280426309">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="544" y="279" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1610280426309" />
+    <state x="544" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1610780080125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1610780080125" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608284814658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -374,22 +323,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="606" y="107" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605147919555" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1610352477691">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1610785923883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610352477691" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1610352477691">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610785923883" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1610785923883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610352477691" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1610352477691">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610785923883" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1610785923883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610352477691" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1610352477691">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610785923883" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1610785923883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610352477691" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610785923883" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1608296412351">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -410,10 +359,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="452" y="132" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610282520572" />
-    <state x="270" y="57" key="SettingsEditor" timestamp="1608285753200">
+    <state x="270" y="57" key="SettingsEditor" timestamp="1610785978500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608285753200" />
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610785978500" />
     <state x="490" y="154" width="561" height="524" key="StructurePopup" timestamp="1610335686742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -422,6 +371,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608296975797" />
+    <state x="540" y="204" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1610785194997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="204" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1610785194997" />
     <state x="153" y="14" key="new project wizard" timestamp="1608295802086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -434,10 +387,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1608284007314" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610335689551">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610781365978">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1610335689551" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1610781365978" />
     <state x="563" y="96" key="svn.repositoryBrowser" timestamp="1607923350277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
